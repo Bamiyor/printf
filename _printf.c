@@ -4,6 +4,7 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - Printf function
+ * if is a conditional statement
  * @format: format.
  * Return: Printed chars.
  */
